@@ -1,4 +1,4 @@
-#GroceryNet - FastAPI
+# GroceryNet - FastAPI
 
 Used FastAPI for backend and React for the frontend.
 
